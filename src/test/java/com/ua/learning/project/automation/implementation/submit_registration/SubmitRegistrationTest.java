@@ -37,7 +37,7 @@ public class SubmitRegistrationTest extends BaseTest {
 
         RegistrationForm rf = new RegistrationForm(tc.NAME,tc.LASTNAME, tc.DATEofBIRTH, tc.AGE);
         System.out.println("RegistrationForm "+rf.fName()+", "+rf.lName()+", "+rf.bDay()+", "+rf.hashCode());
-    /** hasCode test*/
+    /** hashCode test*/
         System.out.println("");
         System.out.println(rf.CheckHashCode("Petrov"));
 
