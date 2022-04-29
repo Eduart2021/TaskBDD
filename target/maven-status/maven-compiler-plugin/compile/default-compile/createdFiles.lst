@@ -1,0 +1,9 @@
+com\ua\learning\project\models\menu\CDIMenu.class
+com\ua\learning\project\models\Page.class
+com\ua\learning\project\core\driver\WebDriverHolder.class
+com\ua\learning\project\models\menu\AbcMenu.class
+com\ua\learning\project\models\Pages\BasePage.class
+com\ua\learning\project\models\entity\RegistrationForm.class
+com\ua\learning\project\core\report\TestReporter.class
+com\ua\learning\project\models\menu\MainMenu.class
+com\ua\learning\project\models\Pages\LoginPage.class

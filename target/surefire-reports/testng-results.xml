@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="8" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="394" started-at="2022-04-29T12:44:46 EDT" finished-at="2022-04-29T12:44:47 EDT">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="394" started-at="2022-04-29T12:44:46 EDT" finished-at="2022-04-29T12:44:47 EDT">
+      <class name="com.ua.learning.project.automation.BaseTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.ua.learning.project.automation.BaseTest@70fab835]" name="init" is-config="true" duration-ms="51" started-at="2022-04-29T12:44:46 EDT" finished-at="2022-04-29T12:44:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="destroy()[pri:0, instance:com.ua.learning.project.automation.BaseTest@70fab835]" name="destroy" is-config="true" duration-ms="1" started-at="2022-04-29T12:44:47 EDT" finished-at="2022-04-29T12:44:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroy -->
+      </class> <!-- com.ua.learning.project.automation.BaseTest -->
+      <class name="com.ua.learning.project.automation.implementation.submit_registration.SubmitRegistrationTest">
+        <test-method status="PASS" signature="Task4()[pri:0, instance:com.ua.learning.project.automation.implementation.submit_registration.SubmitRegistrationTest@476aac9]" name="Task4" duration-ms="63" started-at="2022-04-29T12:44:46 EDT" finished-at="2022-04-29T12:44:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Task4 -->
+        <test-method status="PASS" signature="callMenus()[pri:0, instance:com.ua.learning.project.automation.implementation.submit_registration.SubmitRegistrationTest@476aac9]" name="callMenus" duration-ms="9" started-at="2022-04-29T12:44:47 EDT" finished-at="2022-04-29T12:44:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callMenus -->
+        <test-method status="PASS" signature="getRegister()[pri:0, instance:com.ua.learning.project.automation.implementation.submit_registration.SubmitRegistrationTest@476aac9]" name="getRegister" duration-ms="4" started-at="2022-04-29T12:44:47 EDT" finished-at="2022-04-29T12:44:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRegister -->
+        <test-method status="PASS" signature="loginSystem()[pri:0, instance:com.ua.learning.project.automation.implementation.submit_registration.SubmitRegistrationTest@476aac9]" name="loginSystem" duration-ms="6" started-at="2022-04-29T12:44:47 EDT" finished-at="2022-04-29T12:44:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSystem -->
+        <test-method status="PASS" signature="task5()[pri:0, instance:com.ua.learning.project.automation.implementation.submit_registration.SubmitRegistrationTest@476aac9]" name="task5" duration-ms="7" started-at="2022-04-29T12:44:47 EDT" finished-at="2022-04-29T12:44:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- task5 -->
+        <test-method status="PASS" signature="task6()[pri:0, instance:com.ua.learning.project.automation.implementation.submit_registration.SubmitRegistrationTest@476aac9]" name="task6" duration-ms="2" started-at="2022-04-29T12:44:47 EDT" finished-at="2022-04-29T12:44:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- task6 -->
+      </class> <!-- com.ua.learning.project.automation.implementation.submit_registration.SubmitRegistrationTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
